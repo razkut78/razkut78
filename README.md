@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @razkut78
-- 👀 I’m interested in node and testnet.
-Happy New Year, I think during the holidays it will be possible to devote time to projects!
+Привет, меня зовут Андрей.
+Увлекаюсь программированием на Python, тестированием.
+
 
 <!---
 razkut78/razkut78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
